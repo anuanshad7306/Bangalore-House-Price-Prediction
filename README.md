@@ -17,7 +17,7 @@ bath (number of bathrooms)
 
 price
 
-🔧 Key Steps
+## Key Steps
 Data Cleaning
 
 Handling missing values
